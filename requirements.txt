@@ -10,3 +10,9 @@ scipy
 numpy
 pandas
 pyttsx3
+librosa
+tempfille
+os
+matplotlib
+soundfile
+noisereduce
