@@ -1,0 +1,11 @@
+streamlit
+speechrecognition
+googletrans==4.0.0rc1
+pydub
+nltk
+gensim
+transformers
+torch
+scipy
+numpy
+pandas
