@@ -1,3 +1,4 @@
+
 # 📚 Multi-Lingual Assitance for Rural India
 
 This project implements an intelligent FAQ retrieval system that returns the most relevant answer to a user query using semantic similarity techniques. The system employs **Word2Vec** and **GloVe** embeddings to understand the context and meaning of questions, even if they are phrased differently.
@@ -159,7 +160,7 @@ Place your screenshots in a folder named `/screenshots/` and reference them like
 Upload a demo video showing the system in action. Embed like this:
 
 ```markdown
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the demo](https://youtu.be/qd2ziS6oeRA)](https://youtu.be/qd2ziS6oeRA)
 ```
 
 ---
