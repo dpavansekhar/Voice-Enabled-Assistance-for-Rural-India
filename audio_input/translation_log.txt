@@ -1,0 +1,73 @@
+Language: हिन्दी (Hindi) (hi)
+User said: मेरा नाम पवन है आपका नाम क्या है
+Translated: My name is Pawan, what is your name
+--------------------------------------------------
+Language: हिन्दी (Hindi) (hi)
+User said: पीएम किसान स्कीम
+PM Kisan SchemeLanguage: தமிழ் (Tamil) (ta)
+User said: ஹலோ பெரிய எல்லாம் ஒண்ணா இருக்கணும்
+Hello big everythingLanguage: తెలుగు (Telugu) (te)
+User said: హలో మీరు ఎలా ఉన్నారు
+Hello how are youLanguage: తెలుగు (Telugu) (te)
+User said: రైతు భరోసా పథకం గురించి
+About the farmer's assurance scheme--------------------------------------------------
+Language: తెలుగు (Telugu) (te)
+User said: రైతు భరోసా పథ
+Farmer Assurance Scheme--------------------------------------------------
+Language: മലയാളം (Malayalam) (ml)
+User said: കർഷക
+Farmer--------------------------------------------------
+Language: മലയാളം (Malayalam) (ml)
+User said: കാർഷിക പദ്ധ
+Agricultural--------------------------------------------------
+Language: മലയാളം (Malayalam) (ml)
+User said: കർഷക കാർത്തിക പദ്ധതി
+Farmers Karthika Scheme--------------------------------------------------
+Language: മലയാളം (Malayalam) (ml)
+User said: കർഷക കാർഷിക പദ്ധതി
+Farmer agricultural--------------------------------------------------
+Language: हिन्दी (Hindi) (hi)
+User said: प्रधान मंत्री किसान सम
+Prime Minister Kisan Samman--------------------------------------------------
+Language: हिन्दी (Hindi) (hi)
+User said: प्रधानमंत्री
+Prime Minister--------------------------------------------------
+Language: हिन्दी (Hindi) (hi)
+User said: प्रधानमंत्री किसान सम्मन निधि बारे में बताओ
+Tell about the Prime Minister Kisan Summons Fund--------------------------------------------------
+Language: हिन्दी (Hindi) (hi)
+User said: प्रधानमंत्री किसान सामना योजना बारे में
+About Pradhan Mantri Kisan Saamana Yojana--------------------------------------------------
+Language: తెలుగు (Telugu) (te)
+User said: ప్రధానమంత్రి రైతు భరోసా పథకం
+Prime Minister Farmer's Scheme--------------------------------------------------
+Language: తెలుగు (Telugu) (te)
+User said: రైతు భరోసా పథకం గురించి సమాచారం కావ
+Information about the farmer's assurance scheme--------------------------------------------------
+Language: తెలుగు (Telugu) (te)
+User said: నేను ఒక రైతు
+I am a farmer--------------------------------------------------
+Language: తెలుగు (Telugu) (te)
+User said: ప్రధానమంత్రి
+The Prime Minister--------------------------------------------------
+Language: తెలుగు (Telugu) (te)
+User said: రైతు భరోసా పథకం
+Farmer Assurance Scheme--------------------------------------------------
+Language: తెలుగు (Telugu) (te)
+User said: టమాటా పంట ఎరువు గురించి కావాలి
+Tomato crop is about fertilizer--------------------------------------------------
+Language: తెలుగు (Telugu) (te)
+User said: పాట పంట ఎరువు గురించి సమాచారం కావాలి
+Want information about song crop manure--------------------------------------------------
+Language: తెలుగు (Telugu) (te)
+User said: టమాటా పంట ఎరువు గురించి సమాచారం కావాలి
+Need information about tomato crop manureLanguage: Telugu (te)/nUser said: టమాట పంట ఎరువు గురించి/nAbout tomato crop manure/nLanguage: Telugu (te)/nUser said: ప్రధానమంత్రి రైతు భరోసా పథకం/nPrime Minister Farmer's Scheme/nLanguage: Telugu (te)/nUser said: పథకం గురించి సమాచారం కావాలి/nNeed information about the scheme/nLanguage: Telugu (te)/nUser said: స్వచ్ఛమైన టమాటా పంట కావాలి/nWant pure tomato crop/nLanguage: Hindi (hi)/nUser said: टमाटर की फसल के/nTomato crop/nLanguage: Hindi (hi)/nUser said: कृषि में/nIn agriculture/nLanguage: Hindi (hi)/nUser said: पीएम/nPM/nLanguage: Hindi (hi)/nUser said: कृषि में प्रधानमंत्री योजना क्या है/nWhat is Pradhan Mantri Yojana in Agriculture/n--------------------------------------------------
+Language: తెలుగు (Telugu) (te)
+User said: టమాటా
+Tomatoes--------------------------------------------------
+Language: తెలుగు (Telugu) (te)
+User said: వరి పంట కి కావాల్సిన ఎరువులు ఏమిటి
+What are fertilizer for rice cropLanguage: Telugu (te)/nUser said: ఈ పంట కి కావలసిన ఎరువులు ఏమిటి/nWhat are the fertilizer required for this crop/nLanguage: Telugu (te)/nUser said: వై పంట కి కావలసిన ఎరువులు/nFertilizer required for Y/nLanguage: Telugu (te)/nUser said: వరి పంట కి కావలసిన ఎరువులు ఏమిటి/nWhat are the fertilizer required for rice crop/nLanguage: Telugu (te)/nUser said: మాట పంట బాగా పండాలి అంటే ఏ ఎరువు వాడాలి/nWhat fertilizer should be used to grow the word crop/nLanguage: Hindi (hi)/nUser said: प्रधान मंत्री किसान सम्मन निधि योजना बारे में/nAbout Pradhan Mantri Kisan Samman Nidhi Scheme/nLanguage: Telugu (te)/nUser said: భారత్ రాజధాని/nThe capital of India/nLanguage: Telugu (te)/nUser said: ఏ బీజం వాడాలి/nWhat sperm should be used/nLanguage: Telugu (te)/nUser said: ఏ విత్తనం వేస్తే పంట దిగుబడి ఎక్కువ ఉంటుంది/nIf any seed is planted, crop yields will be higher/nLanguage: Telugu (te)/nUser said: నమస్కారం/nHello/nLanguage: Telugu (te)/nUser said: ఎర్రమట్టి లో/nIn the red/nLanguage: Telugu (te)/nUser said: ఎర్రమట్టి లో ఏ విత్తనం వాడితే ఎక్కువ దిగుబడి/nIf any seed is used in the red yield/nLanguage: Telugu (te)/nUser said: వరి పంటకు/nFor rice crop/nLanguage: Telugu (te)/nUser said: వరి పంటకు ఏ ఎరువు వాడితే/nIf any manure is used for rice crop/nLanguage: Telugu (te)
+User said: వరి పంట పండించడానికి ఎలాంటి ఎ
+Any of the paddy crop to cultivate a
+Language: Telugu (te)/nUser said: రైతు భరోసా పథకం గురించి సమాచారం కావాలి/nNeed information about the farmer's assurance scheme/nLanguage: Hindi (hi)/nUser said: प्रधानमंत्री किसान स्कीम/nPrime Minister Kisan Scheme/nLanguage: Telugu (te)/nUser said: వరి పంట కి కావలసిన ఎరువు ఏమిటి/nWhat is the fertilizer desired for rice crop/nLanguage: Tamil (ta)/nUser said: நெல் பயிருக்கு எந்த உரம் சிறந்தது/nAny fertilizer is best for paddy crop/nLanguage: Kannada (kn)/nUser said: ಯಾವ ಗೊಬ್ಬರ ಉತ್ತಮ/nWhich fertilizer is better/nLanguage: Telugu (te)/nUser said: రైతు భరోసా పథకం గురించి సమాచారం కావాలి/nNeed information about the farmer's assurance scheme/nLanguage: Tamil (ta)/nUser said: தக்காளி நோய்க்கு என்ன உரம் பயன்படுத்த வேண்டும்/nWhat compost should be used for tomato disease/nLanguage: Telugu (te)/nUser said: శ్రీశాంత్ అండ్ వాడి పెళ్ళాం దెంగించుకున్న వీడియోలు/nVideos of Sreesanth and Wadi wedding/nLanguage: Telugu (te)/nUser said: సేంద్రీయ వ్యవసాయం అంటే ఏమిటి/nWhat is organic farming/nLanguage: Telugu (te)/nUser said: సేంద్రీయ వ్యవసాయం/nOrganic farming/nLanguage: Telugu (te)/nUser said: సేంద్రీయ వ్యవసాయం/nOrganic farming/nLanguage: Telugu (te)/nUser said: సేంద్రీయ వ్యవసాయం/nOrganic farming/nLanguage: Telugu (te)/nUser said: వ్యవసాయం/nAgriculture/nLanguage: Telugu (te)/nUser said: కేంద్రీయ వ్యవసాయం/nCentral agriculture/nLanguage: Telugu (te)/nUser said: సేంద్రీయ వ్యవసాయం/nOrganic farming/nLanguage: Hindi (hi)/nUser said: जैविक खेती क्या है/nWhat is organic farming/n
