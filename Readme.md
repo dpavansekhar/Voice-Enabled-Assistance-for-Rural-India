@@ -1,4 +1,4 @@
-# 📚 FAQ Retrieval System Using Word Embeddings
+# 📚 Multi-Lingual Assitance for Rural India
 
 This project implements an intelligent FAQ retrieval system that returns the most relevant answer to a user query using semantic similarity techniques. The system employs **Word2Vec** and **GloVe** embeddings to understand the context and meaning of questions, even if they are phrased differently.
 
