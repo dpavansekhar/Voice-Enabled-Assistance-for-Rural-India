@@ -27,7 +27,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 # Google Gemini setup
-genai.configure(api_key="AIzaSyBXEe4EabD2igigZX9jFjjHk0hh35I6DB8")
+genai.configure(api_key="YOUR_GEMINI_API_KEY")
 gemini_model = genai.GenerativeModel("models/gemini-1.5-pro")
 
 # Ensure directory exists

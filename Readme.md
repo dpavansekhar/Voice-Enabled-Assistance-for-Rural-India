@@ -165,6 +165,19 @@ Upload a demo video showing the system in action. Embed like this:
 
 ---
 
+## Get Your Google API Key
+You need an API key from Google AI Studio to use the Gemini model.
+#### How to Get Your API Key from Google AI Studio:
+```text
+1. Go to Google AI Studio: https://aistudio.google.com/
+2. Sign in with your Google account.
+3. Click on "API Access" (Top-right corner).
+4. Click "Generate API Key".
+5. Copy the generated API Key.
+```
+
+Replace the "YOUR_GEMINI_API_KEY" with your GEMINI API Key in the streamlit_app.py 
+
 ## 🤝 Contributing
 
 Contributions are welcome! Open issues or pull requests for improvements.
