@@ -159,7 +159,7 @@ Place your screenshots in a folder named `/screenshots/` and reference them like
 
 Uploaded a demo video showing the system in action. Embed like this:
 
-![Watch the demo](https://youtu.be/qd2ziS6oeRA)
+[![Watch the demo](https://youtu.be/qd2ziS6oeRA)](https://youtu.be/qd2ziS6oeRA)
 
 ---
 
