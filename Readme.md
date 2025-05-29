@@ -157,11 +157,9 @@ Place your screenshots in a folder named `/screenshots/` and reference them like
 
 ## 🎥 Testing Video
 
-Upload a demo video showing the system in action. Embed like this:
+Uploaded a demo video showing the system in action. Embed like this:
 
-```markdown
 [![Watch the demo](https://youtu.be/qd2ziS6oeRA)](https://youtu.be/qd2ziS6oeRA)
-```
 
 ---
 
@@ -181,6 +179,8 @@ Replace the "YOUR_GEMINI_API_KEY" with your GEMINI API Key in the streamlit_app.
 ## 🤝 Contributing
 
 Contributions are welcome! Open issues or pull requests for improvements.
+
+
 
 ---
 
